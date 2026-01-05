@@ -281,8 +281,8 @@ const PortfolioPage = () => {
       <section className="cta-section">
         <div className="container">
           <div className="cta-content">
-            <h2>Let's Discuss Your <span className="highlight">Project</span></h2>
-            <p>Get free consultation and let us know your project idea to turn it into an amazing digital product.</p>
+            <h2 style={{color:"white"}}>Let's Discuss Your <span className="highlight">Project</span></h2>
+            <p style={{color:"white"}}>Get free consultation and let us know your project idea to turn it into an amazing digital product.</p>
             <Link to="/contact" className="btn btn-primary">
               Contact Us <ArrowRight size={18} />
             </Link>

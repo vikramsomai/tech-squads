@@ -181,8 +181,8 @@ const AboutPage = () => {
       <section className="cta-section">
         <div className="container">
           <div className="cta-content">
-            <h2>Partner with us to turn your ideas into <span className="highlight">reality</span></h2>
-            <p>Work with us for smart, cost-effective solutions, smooth processes, and on-time delivery of your software projects.</p>
+            <h2 style={{color: "white"}}>Partner with us to turn your ideas into <span className="highlight">reality</span></h2>
+            <p style={{color:"white"}}>Work with us for smart, cost-effective solutions, smooth processes, and on-time delivery of your software projects.</p>
             <Link to="/contact" className="btn btn-primary">
               Get a Custom Quote <ArrowRight size={18} />
             </Link>

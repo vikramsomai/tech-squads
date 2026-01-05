@@ -390,8 +390,8 @@ const ServiceDetailPage = () => {
       <section className="cta-section">
         <div className="container">
           <div className="cta-content" style={{ borderColor: service.color }}>
-            <h2>Ready to Start Your <span className="highlight">Project?</span></h2>
-            <p>Get a free consultation and let's discuss how we can help bring your ideas to life.</p>
+            <h2 style={{color:"white"}}>Ready to Start Your <span className="highlight">Project?</span></h2>
+            <p style={{color:"white"}}>Get a free consultation and let's discuss how we can help bring your ideas to life.</p>
             <div className="cta-buttons">
               <Link to="/contact" className="btn btn-primary">
                 Contact Us <ArrowRight size={18} />

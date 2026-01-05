@@ -185,7 +185,7 @@ const HomePage = () => {
               <span className="label-dot"></span>
               Our Services
             </div>
-            <h2>What We <span className="text-gradient">Build</span></h2>
+            <h2>What We <span className="highlight">Build</span></h2>
             <p>End-to-end digital solutions tailored to your business needs</p>
           </div>
 
@@ -280,7 +280,7 @@ const HomePage = () => {
               <span className="label-dot"></span>
               Testimonials
             </div>
-            <h2>What Our <span className="text-gradient">Clients Say</span></h2>
+            <h2>What Our <span className="highlight">Clients Say</span></h2>
           </div>
 
           <div className="testimonials-container">
@@ -316,7 +316,7 @@ const HomePage = () => {
               <span className="label-dot"></span>
               Our Process
             </div>
-            <h2>How We <span className="text-gradient">Work</span></h2>
+            <h2>How We <span className="highlight">Work</span></h2>
           </div>
 
           <div className="process-grid-modern">

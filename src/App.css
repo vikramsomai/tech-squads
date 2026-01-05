@@ -2511,6 +2511,7 @@ section[id] {
   border: 1px solid rgba(255, 255, 255, 0.1);
   border-radius: var(--radius-xl);
   padding: 1.5rem;
+          margin-left: 360px;
   opacity: 0;
   visibility: hidden;
   transition: var(--transition);
